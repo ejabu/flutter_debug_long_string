@@ -8,7 +8,7 @@ of class in **Debug Window**.
 ## Features
 
 Features that are available in this app : 
-- User have two class that has longString and _longString property
+- User have two classes that have longString and _longString property
 
 
 ## Demo
